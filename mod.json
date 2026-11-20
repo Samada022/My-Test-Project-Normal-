@@ -1,0 +1,14 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "*",
+		"android": "*",
+		"mac": "*",
+		"ios": "*"
+	},
+	"id": "yourname.shoot-mod",
+	"name": "Shoot Mod",
+	"version": "v1.0.0",
+	"developer": "yourname",
+	"description": "Press G to shoot and destroy obstacles."
+}
